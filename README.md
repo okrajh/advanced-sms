@@ -31,7 +31,6 @@ Login Page For Admin
 
 
 
-![12](https://user-images.githubusercontent.com/57231254/133891789-f8c13483-244c-4545-879a-942c3e76e508.jpg)
 
 
 
@@ -54,5 +53,11 @@ Generated Id Card
 ![10](https://user-images.githubusercontent.com/57231254/133891866-ed920c0f-0d5d-426a-b125-a5b16e413dc5.png)
 
 
+![12](https://user-images.githubusercontent.com/57231254/133891789-f8c13483-244c-4545-879a-942c3e76e508.jpg)
+
+
+
+
+Full Presentation of this project :-
 
 [Advanced Student Management System Report - Original.docx](https://github.com/okrajh/advanced-sms/files/7190063/Advanced.Student.Management.System.Report.-.Original.docx)
